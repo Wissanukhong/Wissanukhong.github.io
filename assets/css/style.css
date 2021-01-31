@@ -1097,3 +1097,7 @@ section {
     padding-right: 20px 15px;
   }
 }
+
+.img-fluid {
+  border: 1px solid black;
+}
