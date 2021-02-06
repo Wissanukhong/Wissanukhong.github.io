@@ -438,6 +438,12 @@ section {
 /*--------------------------------------------------------------
 # Resume
 --------------------------------------------------------------*/
+a:focus,
+.btn:focus,
+.btn-primary:focus,
+.btn-lg:focus {
+  outline: none;
+}
 .resume .resume-title {
   font-size: 26px;
   font-weight: 700;
